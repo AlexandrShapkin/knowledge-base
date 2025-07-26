@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "База знаний",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "Личная база знаний по IT",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
